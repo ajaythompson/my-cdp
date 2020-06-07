@@ -3,3 +3,5 @@ target/
 .metals/
 porject/target/
 praject/porject/
+*.class
+*.log
