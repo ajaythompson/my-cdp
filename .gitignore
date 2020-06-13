@@ -5,3 +5,16 @@ porject/target/
 praject/porject/
 *.class
 *.log
+*.iml
+.idea/
+
+/my-cdp-api/logs
+/my-cdp-api/target
+/my-cdp-api/.idea
+/my-cdp-api/.idea_modules
+/my-cdp-api/.classpath
+/my-cdp-api/.project
+/my-cdp-api/.settings
+/my-cdp-api/RUNNING_PID
+/my-cdp-api/.g8/
+
